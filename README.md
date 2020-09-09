@@ -51,6 +51,6 @@ const Ali = {
 <br />
 <div><p>The projects I am currently working on: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Qruitly)(https://github.com/AliLotfi123/Qruitly)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Qruitly)](https://github.com/AliLotfi123/Qruitly)]
 
 <br />
