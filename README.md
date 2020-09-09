@@ -1,7 +1,5 @@
 ### <code> <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h2></code>
 
----
-
 ### Welcome to my Github
 
 <div  align="left" border="1px red" >
@@ -42,19 +40,18 @@ const Ali = {
 
 <br/>
 
-<code><h1>These are some of the technologys that I learned during the Codaisseur Bootcamp</h1></code> </img>
+<code><h3>These are some of the technologys that I learned during the Codaisseur Bootcamp</h3></code> 
 
-<img width="5%" src="https://miro.medium.com/max/256/1*gGh9I9ju9w4lXhmWoG2fXA.png">
-<img width="5%"  src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/386/square_256/redux.png">
-<img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">
-<img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png">
-<img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png">
-<img width="5%" src="https://developer.asustor.com/uploadIcons/0020_999_1596537478_postgresql-icon_256.png">
-<img width="5%" src="https://images.opencollective.com/graphql-compose/29791ce/logo/256.png">
-<img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png">
-<img width="5%" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
-<img width="5%" src="https://antman.info/images/news/logo.css3.png">
-<img width="5%" src="https://images.opencollective.com/netlify/4087de2/logo/256.png">
-<img width="5%"  src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png">
-<img width="5%" src="https://hasura.io/blog/content/images/2020/02/favicon-3.png">
-<img width="5%" src="https://www.squins.com/images/logo/npm.png">
+<div align="center">
+- Know/Using
+
+| <img src="https://miro.medium.com/max/256/1*gGh9I9ju9w4lXhmWoG2fXA.png" alt="actions logo" width="48"> | <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/386/square_256/redux.png" alt="git logo" width="48"> | <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="vscode logo" width="48"> | <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" alt="aseprite logo" width="48"> | <img src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" alt="gimp logo" width="48"> |  <img src="https://developer.asustor.com/uploadIcons/0020_999_1596537478_postgresql-icon_256.png" alt="travis ci logo" width="48">| <img src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" alt="gnu make logo" width="48">| <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="gnu make logo" width="48"> | <img src="https://antman.info/images/news/logo.css3.png" alt="gnu make logo" width="48"> | <img src="https://images.opencollective.com/netlify/4087de2/logo/256.png" alt="gnu make logo" width="48"> | <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="gnu make logo" width="48"> | <img src="https://hasura.io/blog/content/images/2020/02/favicon-3.png" alt="gnu make logo" width="48"> | <img src="https://www.squins.com/images/logo/npm.png" alt="gnu make logo" width="48"> 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+</div>
+<br />
+<div><p>The projects I am currently working on: </p></div>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Qruitly)(https://github.com/AliLotfi123/Qruitly)
+
+<br />
