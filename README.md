@@ -22,7 +22,6 @@ const Ali = {
 
 </div  >
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I just started coding</b> so if you want to say <b>hi, I'll be happy to meet you and code with you!</b> :)</em>
 
 ---
 
@@ -54,3 +53,6 @@ const Ali = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Qruitly)](https://github.com/AliLotfi123/Qruitly)
 
 <br />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I just started coding</b> so if you want to say <b>hi, I'll be happy to meet you and code with you!</b> :)</em>
+
