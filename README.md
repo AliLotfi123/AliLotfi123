@@ -20,13 +20,13 @@ const Ali = {
 };
 ```
 
-</div >
+</div  >
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I just started coding</b> so if you want to say <b>hi, I'll be happy to meet you and code with you!</b> :)</em>
 
 ---
 
-<div   align="left" border="1px red" >
+<div   align="center"  >
 
 <a href="https://github.com/AliLotfi123">
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliLotfi123&theme=radical&hide=glsl,python" />
