@@ -26,13 +26,13 @@ const Ali = {
 
 ---
 
-<div  align="left" border="1px red" >
+<div   align="left" border="1px red" >
 
 <a href="https://github.com/AliLotfi123">
-  <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliLotfi123&theme=radical&hide=glsl,python" />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliLotfi123&theme=radical&hide=glsl,python" />
 </a>
 
-<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=AliLotfi123&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ali's GitHub Stats" />
+<img  width="61.5%" src="https://github-readme-stats.vercel.app/api?username=AliLotfi123&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ali's GitHub Stats" />
 
 </div>
 
