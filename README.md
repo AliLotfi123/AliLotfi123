@@ -16,7 +16,7 @@ const Ali = {
   },
   challenge: "Learn a new thing about coding every week",
   quote: "It's not the envoirement, it's the mindset",
-  carrier: ["Searching for a job as a Junior Full-Stack Developer"],
+  career: ["Searching for a job as a Junior Full-Stack Developer"],
 };
 ```
 
