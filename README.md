@@ -39,7 +39,7 @@ const Ali = {
 
 <br/>
 
-<code><h3>These are some of the technologys that I learned during the Codaisseur Bootcamp</h3></code> 
+<code><h3  align="center">These are some of the technologys that I learned during the Codaisseur Bootcamp</h3></code> 
 
 <div align="center">
 
