@@ -51,7 +51,6 @@ const Ali = {
 <div><p>The projects I am currently working on: </p></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Qruitly)](https://github.com/AliLotfi123/Qruitly)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=First_Laravel_Project)](https://github.com/AliLotfi123/First_Laravel_Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=ts-todo-graphql)](https://github.com/AliLotfi123/ts-todo-graphql)
 
 
