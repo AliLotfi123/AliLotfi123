@@ -52,6 +52,9 @@ const Ali = {
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Qruitly)](https://github.com/AliLotfi123/Qruitly)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=ts-todo-graphql)](https://github.com/AliLotfi123/ts-todo-graphql)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AliLotfi123&repo=Noteassieur-FrontEnd)](https://github.com/RokPopov/Noteassieur-FrontEnd)
+
+
 
 
 <br />
