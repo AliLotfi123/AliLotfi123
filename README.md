@@ -8,7 +8,7 @@
 const Ali = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["React", "Redux", "Node", "GraphQL", "Git", "Scrum", "PostgreSQL"],
-  work: ["13 years sales & management", "2 months develoment"],
+  work: ["13 years sales & management", "1 year develoment"],
   education: {
     bootcamp: "Codaisseur",
     duration: "11 weeks",
