@@ -4,21 +4,7 @@
 
 <div  align="left" border="1px red" >
 
-```javascript
-const Ali = {
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Redux", "Node", "GraphQL", "Git", "Scrum", "PostgreSQL"],
-  work: ["13 years sales & management", "1 year develoment"],
-  education: {
-    bootcamp: "Codaisseur",
-    duration: "11 weeks",
-    learned: "Full-Stack Development",
-  },
-  challenge: "Learn a new thing about coding every week",
-  quote: "It's not the envoirement, it's the mindset",
-  career: ["Searching for a job as a Junior Full-Stack Developer"],
-};
-```
+
 
 </div  >
 
